@@ -1,4 +1,4 @@
-# IBM-Applied-Data-Science-Capstone
+# IBM Applied Data Science Capstone
 The capstone project is about predicting if [SpaceX's](https://www.spacex.com/) [Falcon 9](https://en.wikipedia.org/wiki/Falcon_9) rockets will land successfully in the first stage.
 SpaceX advertises Falcon 9 rocket launches on its [website](https://www.spacex.com/vehicles/falcon-9/), with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the...
                [- IBM](https://www.ibm.com/us-en?ar=1)
