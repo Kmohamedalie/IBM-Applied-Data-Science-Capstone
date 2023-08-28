@@ -18,14 +18,19 @@ https://github.com/Kmohamedalie/IBM-Applied-Data-Science-Capstone/assets/6310447
 **Machine Learning Notebook:** [Predictive Modeling]()
 
 ### Activities:
-- [Data collection]() through an [API](https://en.wikipedia.org/wiki/API)
-- Webscraping using [Beautiful Soup](https://tedboy.github.io/bs4_doc/2_installation.html)
-- [Data Wrangling]() with  [Pandas](https://pandas.pydata.org/)
-- [Analyzing]() the data using [SQLITE](https://docs.python.org/3/library/sqlite3.html)
-- [EDA]() using [matplotlib](https://matplotlib.org/) and [seaborn](https://seaborn.pydata.org/) for visualizing hidden patterns.
-- [Predictive modeling]() using four(4) different machine learning algorithms
+*  [Data collection]() through an [API](https://en.wikipedia.org/wiki/API)
+*  Webscraping using [Beautiful Soup](https://tedboy.github.io/bs4_doc/2_installation.html)
+*  [Data Wrangling]() with  [Pandas](https://pandas.pydata.org/)
+*  [Analyzing]() the data using [SQLITE](https://docs.python.org/3/library/sqlite3.html)
+*  [EDA]() using [matplotlib](https://matplotlib.org/) and [seaborn](https://seaborn.pydata.org/) for visualizing hidden patterns.
+*  [Predictive modeling]() using four(4) different machine learning algorithms
       - [Logistic Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
+  
       - [Support Vector Machine](https://scikit-learn.org/stable/modules/svm.html)
+  
       - [Decision Tree Algorithm](https://scikit-learn.org/stable/modules/tree.html)
+  
       - [K Nearest Neighbour](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html)
+  
       - [GridSearchCV](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html)
+  
