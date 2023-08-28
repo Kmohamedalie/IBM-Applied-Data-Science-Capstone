@@ -8,7 +8,7 @@ SpaceX advertises Falcon 9 rocket launches on its [website](https://www.spacex.c
 
 **Course:** [IBM - Applied Data Science Capstone](https://www.coursera.org/learn/applied-data-science-capstone)
 
-**Notebooks:** [Link to the notebooks]()
+**Notebooks:** [Link to the notebooks](https://github.com/Kmohamedalie/IBM-Data-Science-SpaceX-Falcon9/tree/master/Notebooks)
 
 **Machine Learning Notebook:** [SpaceX Machine Learning Prediction]()
 
