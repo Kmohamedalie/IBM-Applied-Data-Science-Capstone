@@ -11,7 +11,7 @@ SpaceX advertises Falcon 9 rocket launches on its [website](https://www.spacex.c
 
 **Notebooks:** [Link to the notebooks]()
 
-**Machine Learning Notebook:** [Predictive Modeling]()
+**Machine Learning Notebook:** [Predictive Modeling - classification]()
 
           
 
