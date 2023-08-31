@@ -9,7 +9,7 @@ SpaceX advertises Falcon 9 rocket launches on its [website](https://www.spacex.c
 
 **Notebooks:** [Link to the notebooks](https://github.com/Kmohamedalie/IBM-Data-Science-SpaceX-Falcon9/tree/master/Notebooks)
 
-**Machine Learning Notebook:** [SpaceX Machine Learning Prediction]()
+**Machine Learning Notebook:** [SpaceX Machine Learning Prediction](https://github.com/Kmohamedalie/IBM-Data-Science-SpaceX-Falcon9/blob/master/Notebooks/7.%20SpaceX_Machine_Learning_Prediction_Part_5.jupyterlite.ipynb)
 
           
 
