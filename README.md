@@ -34,7 +34,7 @@ https://github.com/Kmohamedalie/IBM-Applied-Data-Science-Capstone/assets/6310447
 *  [Data Wrangling]() with  [Pandas](https://pandas.pydata.org/)
 *  [Analyzing](https://github.com/Kmohamedalie/IBM-Data-Science-SpaceX-Falcon9/blob/master/Notebooks/4.%20jupyter-labs-eda-sql-coursera_sqllite.ipynb) the data using [SQLITE](https://docs.python.org/3/library/sqlite3.html)
 *  [EDA](https://github.com/Kmohamedalie/IBM-Data-Science-SpaceX-Falcon9/blob/master/Notebooks/5.%20jupyter-labs-eda-dataviz.ipynb) using [matplotlib](https://matplotlib.org/) and [seaborn](https://seaborn.pydata.org/) for visualizing hidden patterns.
-*  [Predictive modeling]() using four(4) different machine learning algorithms
+*  [Predictive modeling](https://github.com/Kmohamedalie/IBM-Data-Science-SpaceX-Falcon9/blob/master/Notebooks/7.%20SpaceX_Machine_Learning_Prediction_Part_5.jupyterlite.ipynb) using four(4) different machine learning algorithms
       - [Logistic Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)  
       - [Support Vector Machine](https://scikit-learn.org/stable/modules/svm.html) 
       - [Decision Tree Algorithm](https://scikit-learn.org/stable/modules/tree.html) 
