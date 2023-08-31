@@ -29,11 +29,11 @@ https://github.com/Kmohamedalie/IBM-Applied-Data-Science-Capstone/assets/6310447
 
 
 ### Activities:
-*  [Data collection]() through an [API](https://en.wikipedia.org/wiki/API)
-*  Webscraping using [Beautiful Soup](https://tedboy.github.io/bs4_doc/2_installation.html)
+*  [Data collection](https://github.com/Kmohamedalie/IBM-Data-Science-SpaceX-Falcon9/blob/master/Notebooks/1.jupyter-labs-spacex-data-collection-api.ipynb) through an [API](https://en.wikipedia.org/wiki/API)
+*  Webscraping using [Beautiful Soup](https://github.com/Kmohamedalie/IBM-Data-Science-SpaceX-Falcon9/blob/master/Notebooks/2%20-jupyter-labs-webscraping.ipynb)
 *  [Data Wrangling]() with  [Pandas](https://pandas.pydata.org/)
-*  [Analyzing]() the data using [SQLITE](https://docs.python.org/3/library/sqlite3.html)
-*  [EDA]() using [matplotlib](https://matplotlib.org/) and [seaborn](https://seaborn.pydata.org/) for visualizing hidden patterns.
+*  [Analyzing](https://github.com/Kmohamedalie/IBM-Data-Science-SpaceX-Falcon9/blob/master/Notebooks/4.%20jupyter-labs-eda-sql-coursera_sqllite.ipynb) the data using [SQLITE](https://docs.python.org/3/library/sqlite3.html)
+*  [EDA](https://github.com/Kmohamedalie/IBM-Data-Science-SpaceX-Falcon9/blob/master/Notebooks/5.%20jupyter-labs-eda-dataviz.ipynb) using [matplotlib](https://matplotlib.org/) and [seaborn](https://seaborn.pydata.org/) for visualizing hidden patterns.
 *  [Predictive modeling]() using four(4) different machine learning algorithms
       - [Logistic Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)  
       - [Support Vector Machine](https://scikit-learn.org/stable/modules/svm.html) 
