@@ -41,4 +41,4 @@ https://github.com/Kmohamedalie/IBM-Applied-Data-Science-Capstone/assets/6310447
       - [K Nearest Neighbour](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html)
       - [GridSearchCV](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html)
   
-### Results:
+### Results: All findings have been summarised in the [Final pdf presentation](https://github.com/Kmohamedalie/IBM-Data-Science-SpaceX-Falcon9/blob/master/IBM-DS-capstone-SpaceX-Falcon9.pdf)
