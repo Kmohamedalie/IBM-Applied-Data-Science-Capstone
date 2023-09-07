@@ -42,3 +42,13 @@ https://github.com/Kmohamedalie/IBM-Applied-Data-Science-Capstone/assets/6310447
       - [GridSearchCV](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html)
   
 ### Results: All findings have been summarised in the [Final pdf presentation](https://github.com/Kmohamedalie/IBM-Data-Science-SpaceX-Falcon9/blob/master/IBM-DS-capstone-SpaceX-Falcon9.pdf)
+
+
+
+
+
+
+Verifiable course: [Credly completion achievement](https://www.credly.com/badges/70443acf-7c9b-4aae-8b51-87bbbcb0a4f0/public_url)
+  
+
+
